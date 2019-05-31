@@ -1,0 +1,6 @@
+token=NTgzODg0MTcxNjIyMjE5Nzc2.XPC2hw.UgqZ1gxaDYv1rwY5Cvs7QwcVEBM
+owner=410860706213134336
+prefix=1
+game=type Free Palestine 
+stayinchannel=false 
+songinstatus=false
